@@ -91,6 +91,18 @@ input	      output
 -150	      Invalid operation!
               Total: 165.55
 
+06.Problem: Max number
+Write a program that, until receiving the "Stop" command, reads integers entered by the user, finds the largest among them, and prints it. 
+Enter one number per line.
+
+Sample input and output
+input	  output        input	  output     input	  output      input	  output       input	  output
+100       100           -10       20         45           99          999         999          -1         -1
+99                      20                   -20                      Stop                     -2
+80                      =30                   7                                                Stop
+70                      Stop                  99                                    
+Stop                                          Stop
+
 
 
 
