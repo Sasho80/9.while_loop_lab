@@ -115,6 +115,44 @@ input	  output        input	  output     input	  output      input	  output     
 70                      Stop                 99
 Stop                                         Stop 
 
+08.Problem: Graduation
+Write a program that calculates the grade point average of a student over his entire course. On the first line, you will get the student's name, and on each subsequent line, their annual grades. The student advances to the next grade if his annual grade is greater than or equal to 4.00. If the student is interrupted more than once, the student is expelled and the program ends, printing the name of the student and the class in which he was expelled.
+  On successful completion of 12th grade to print:
+"{student name} graduated. Average grade: {the average grade of the entire study}"
+In case the student is excluded from school, to print:
+"{student name} has been excluded at {grade in which he was excluded} grade"
+The value must be formatted to the second decimal place.
+
+Sample input and output
+input	output
+Gosho   Gosho graduated. Average grade: 5.53
+5
+5.5
+6
+5.43
+5.5
+6
+5.55
+5
+6
+6
+5.43
+5	
+
+input	output
+Mimi    Mimi has been excluded at 8 grade
+5
+6
+5
+6
+5
+6
+6
+2
+3	
+
+
+
 
 
 
