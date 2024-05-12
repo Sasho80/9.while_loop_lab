@@ -39,6 +39,29 @@ Gosho   Welcome Gosho!
 secret
 secret	
 
+03.Sum numbers
+Write a program that reads an integer from the console and on each successive line integers until their sum is greater than or equal to the original number. 
+After reading is complete, print the sum of the entered numbers.
+
+Sample input and output
+input 	output
+100     100
+10
+20
+30
+40	
+
+input	  output
+20	    21
+1
+2
+3
+4
+5
+6
+
+
+
 
 
 
