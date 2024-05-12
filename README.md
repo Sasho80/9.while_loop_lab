@@ -103,6 +103,18 @@ input	  output        input	  output     input	  output      input	  output     
 70                      Stop                  99                                    
 Stop                                          Stop
 
+07.Problem: Min number
+Write a program that, until the "Stop" command is received, reads integers entered by the user, finds the smallest number among them, and prints it. 
+Enter one number per line.
+
+Sample input and output
+input	  output        input	  output     input	  output      input	  output       input	  output
+100       70            -10       -30        45           -20         999         999          -1         -2
+99                      20                   -20                      Stop                     -2
+80                      -30                  7                                                 Stop 
+70                      Stop                 99
+Stop                                         Stop 
+
 
 
 
