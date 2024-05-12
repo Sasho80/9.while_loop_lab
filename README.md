@@ -71,7 +71,7 @@ input	  output	    input	  output	        input	  output		        input	  output
                                                     15                        15
                                                                               31
 
-05.Problem: 
+05.Problem: Account balance 
 Write a program that calculates how much total money is in the account after you make a certain number of deposits. 
 On each line you will receive the amount you need to deposit into the account until you receive a "NoMoreMoney" command. 
 For each amount received, the console should display "Increase: " + the amount and add it to the account. 
